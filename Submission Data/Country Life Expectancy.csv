@@ -1,0 +1,367 @@
+Indicator,SpatialDimValueCode,Location,Period type,Period,Dim1 type,Dim1,Dim1ValueCode,FactValueNumeric
+Life expectancy at birth (years),LSO,Lesotho,Year,2019,Sex,Both sexes,SEX_BTSX,50.75
+Life expectancy at birth (years),CAF,Central African Republic,Year,2019,Sex,Both sexes,SEX_BTSX,53.1
+Life expectancy at birth (years),SOM,Somalia,Year,2019,Sex,Both sexes,SEX_BTSX,56.47
+Life expectancy at birth (years),SWZ,Eswatini,Year,2019,Sex,Both sexes,SEX_BTSX,57.73
+Life expectancy at birth (years),MOZ,Mozambique,Year,2019,Sex,Both sexes,SEX_BTSX,58.14
+Life expectancy at birth (years),KIR,Kiribati,Year,2019,Sex,Both sexes,SEX_BTSX,59.42
+Life expectancy at birth (years),TCD,Chad,Year,2019,Sex,Both sexes,SEX_BTSX,59.63
+Life expectancy at birth (years),GNB,Guinea-Bissau,Year,2019,Sex,Both sexes,SEX_BTSX,60.22
+Life expectancy at birth (years),ZWE,Zimbabwe,Year,2019,Sex,Both sexes,SEX_BTSX,60.68
+Life expectancy at birth (years),SLE,Sierra Leone,Year,2019,Sex,Both sexes,SEX_BTSX,60.77
+Life expectancy at birth (years),GIN,Guinea,Year,2019,Sex,Both sexes,SEX_BTSX,61.01
+Life expectancy at birth (years),BWA,Botswana,Year,2019,Sex,Both sexes,SEX_BTSX,62.25
+Life expectancy at birth (years),GNQ,Equatorial Guinea,Year,2019,Sex,Both sexes,SEX_BTSX,62.19
+Life expectancy at birth (years),CMR,Cameroon,Year,2019,Sex,Both sexes,SEX_BTSX,62.36
+Life expectancy at birth (years),COD,Democratic Republic of the Congo,Year,2019,Sex,Both sexes,SEX_BTSX,62.35
+Life expectancy at birth (years),ZMB,Zambia,Year,2019,Sex,Both sexes,SEX_BTSX,62.45
+Life expectancy at birth (years),NGA,Nigeria,Year,2019,Sex,Both sexes,SEX_BTSX,62.62
+Life expectancy at birth (years),BFA,Burkina Faso,Year,2019,Sex,Both sexes,SEX_BTSX,62.7
+Life expectancy at birth (years),MLI,Mali,Year,2019,Sex,Both sexes,SEX_BTSX,62.8
+Life expectancy at birth (years),SSD,South Sudan,Year,2019,Sex,Both sexes,SEX_BTSX,62.79
+Life expectancy at birth (years),CIV,Cote d'Ivoire,Year,2019,Sex,Both sexes,SEX_BTSX,62.92
+Life expectancy at birth (years),FSM,Micronesia (Federated States of),Year,2019,Sex,Both sexes,SEX_BTSX,63.03
+Life expectancy at birth (years),AGO,Angola,Year,2019,Sex,Both sexes,SEX_BTSX,63.06
+Life expectancy at birth (years),AFG,Afghanistan,Year,2019,Sex,Both sexes,SEX_BTSX,63.21
+Life expectancy at birth (years),NER,Niger,Year,2019,Sex,Both sexes,SEX_BTSX,63.29
+Life expectancy at birth (years),BEN,Benin,Year,2019,Sex,Both sexes,SEX_BTSX,63.43
+Life expectancy at birth (years),BDI,Burundi,Year,2019,Sex,Both sexes,SEX_BTSX,63.84
+Life expectancy at birth (years),ERI,Eritrea,Year,2019,Sex,Both sexes,SEX_BTSX,64.08
+Life expectancy at birth (years),HTI,Haiti,Year,2019,Sex,Both sexes,SEX_BTSX,64.05
+Life expectancy at birth (years),LBR,Liberia,Year,2019,Sex,Both sexes,SEX_BTSX,64.08
+Life expectancy at birth (years),TGO,Togo,Year,2019,Sex,Both sexes,SEX_BTSX,64.27
+Life expectancy at birth (years),NAM,Namibia,Year,2019,Sex,Both sexes,SEX_BTSX,64.58
+Life expectancy at birth (years),COG,Congo,Year,2019,Sex,Both sexes,SEX_BTSX,64.74
+Life expectancy at birth (years),SLB,Solomon Islands,Year,2019,Sex,Both sexes,SEX_BTSX,65.25
+Life expectancy at birth (years),MDG,Madagascar,Year,2019,Sex,Both sexes,SEX_BTSX,65.35
+Life expectancy at birth (years),PNG,Papua New Guinea,Year,2019,Sex,Both sexes,SEX_BTSX,65.3
+Life expectancy at birth (years),ZAF,South Africa,Year,2019,Sex,Both sexes,SEX_BTSX,65.25
+Life expectancy at birth (years),VUT,Vanuatu,Year,2019,Sex,Both sexes,SEX_BTSX,65.31
+Life expectancy at birth (years),GMB,Gambia,Year,2019,Sex,Both sexes,SEX_BTSX,65.47
+Life expectancy at birth (years),MWI,Malawi,Year,2019,Sex,Both sexes,SEX_BTSX,65.62
+Life expectancy at birth (years),PAK,Pakistan,Year,2019,Sex,Both sexes,SEX_BTSX,65.61
+Life expectancy at birth (years),GUY,Guyana,Year,2019,Sex,Both sexes,SEX_BTSX,65.69
+Life expectancy at birth (years),DJI,Djibouti,Year,2019,Sex,Both sexes,SEX_BTSX,65.81
+Life expectancy at birth (years),KEN,Kenya,Year,2019,Sex,Both sexes,SEX_BTSX,66.09
+Life expectancy at birth (years),GHA,Ghana,Year,2019,Sex,Both sexes,SEX_BTSX,66.28
+Life expectancy at birth (years),GAB,Gabon,Year,2019,Sex,Both sexes,SEX_BTSX,66.47
+Life expectancy at birth (years),YEM,Yemen,Year,2019,Sex,Both sexes,SEX_BTSX,66.63
+Life expectancy at birth (years),UGA,Uganda,Year,2019,Sex,Both sexes,SEX_BTSX,66.69
+Life expectancy at birth (years),TZA,United Republic of Tanzania,Year,2019,Sex,Both sexes,SEX_BTSX,67.34
+Life expectancy at birth (years),COM,Comoros,Year,2019,Sex,Both sexes,SEX_BTSX,67.39
+Life expectancy at birth (years),FJI,Fiji,Year,2019,Sex,Both sexes,SEX_BTSX,68.01
+Life expectancy at birth (years),MNG,Mongolia,Year,2019,Sex,Both sexes,SEX_BTSX,68.1
+Life expectancy at birth (years),MRT,Mauritania,Year,2019,Sex,Both sexes,SEX_BTSX,68.38
+Life expectancy at birth (years),LAO,Lao People's Democratic Republic,Year,2019,Sex,Both sexes,SEX_BTSX,68.51
+Life expectancy at birth (years),SEN,Senegal,Year,2019,Sex,Both sexes,SEX_BTSX,68.58
+Life expectancy at birth (years),ETH,Ethiopia,Year,2019,Sex,Both sexes,SEX_BTSX,68.7
+Life expectancy at birth (years),MMR,Myanmar,Year,2019,Sex,Both sexes,SEX_BTSX,69.13
+Life expectancy at birth (years),RWA,Rwanda,Year,2019,Sex,Both sexes,SEX_BTSX,69.1
+Life expectancy at birth (years),SDN,Sudan,Year,2019,Sex,Both sexes,SEX_BTSX,69.15
+Life expectancy at birth (years),TJK,Tajikistan,Year,2019,Sex,Both sexes,SEX_BTSX,69.5
+Life expectancy at birth (years),TLS,Timor-Leste,Year,2019,Sex,Both sexes,SEX_BTSX,69.62
+Life expectancy at birth (years),TKM,Turkmenistan,Year,2019,Sex,Both sexes,SEX_BTSX,69.75
+Life expectancy at birth (years),KHM,Cambodia,Year,2019,Sex,Both sexes,SEX_BTSX,70.12
+Life expectancy at birth (years),PHL,Philippines,Year,2019,Sex,Both sexes,SEX_BTSX,70.43
+Life expectancy at birth (years),STP,Sao Tome and Principe,Year,2019,Sex,Both sexes,SEX_BTSX,70.42
+Life expectancy at birth (years),WSM,Samoa,Year,2019,Sex,Both sexes,SEX_BTSX,70.45
+Life expectancy at birth (years),IND,India,Year,2019,Sex,Both sexes,SEX_BTSX,70.79
+Life expectancy at birth (years),NPL,Nepal,Year,2019,Sex,Both sexes,SEX_BTSX,70.88
+Life expectancy at birth (years),IDN,Indonesia,Year,2019,Sex,Both sexes,SEX_BTSX,71.31
+Life expectancy at birth (years),AZE,Azerbaijan,Year,2019,Sex,Both sexes,SEX_BTSX,71.43
+Life expectancy at birth (years),SUR,Suriname,Year,2019,Sex,Both sexes,SEX_BTSX,71.48
+Life expectancy at birth (years),EGY,Egypt,Year,2019,Sex,Both sexes,SEX_BTSX,71.82
+Life expectancy at birth (years),HND,Honduras,Year,2019,Sex,Both sexes,SEX_BTSX,71.94
+Life expectancy at birth (years),GTM,Guatemala,Year,2019,Sex,Both sexes,SEX_BTSX,72.02
+Life expectancy at birth (years),BOL,Bolivia (Plurinational State of),Year,2019,Sex,Both sexes,SEX_BTSX,72.14
+Life expectancy at birth (years),IRQ,Iraq,Year,2019,Sex,Both sexes,SEX_BTSX,72.42
+Life expectancy at birth (years),PRK,Democratic People's Republic of Korea,Year,2019,Sex,Both sexes,SEX_BTSX,72.63
+Life expectancy at birth (years),TON,Tonga,Year,2019,Sex,Both sexes,SEX_BTSX,72.57
+Life expectancy at birth (years),SYR,Syrian Arab Republic,Year,2019,Sex,Both sexes,SEX_BTSX,72.67
+Life expectancy at birth (years),DOM,Dominican Republic,Year,2019,Sex,Both sexes,SEX_BTSX,72.84
+Life expectancy at birth (years),GRD,Grenada,Year,2019,Sex,Both sexes,SEX_BTSX,72.88
+Life expectancy at birth (years),MAR,Morocco,Year,2019,Sex,Both sexes,SEX_BTSX,72.99
+Life expectancy at birth (years),UKR,Ukraine,Year,2019,Sex,Both sexes,SEX_BTSX,73.02
+Life expectancy at birth (years),UZB,Uzbekistan,Year,2019,Sex,Both sexes,SEX_BTSX,73.01
+Life expectancy at birth (years),BTN,Bhutan,Year,2019,Sex,Both sexes,SEX_BTSX,73.11
+Life expectancy at birth (years),BHS,Bahamas,Year,2019,Sex,Both sexes,SEX_BTSX,73.21
+Life expectancy at birth (years),RUS,Russian Federation,Year,2019,Sex,Both sexes,SEX_BTSX,73.23
+Life expectancy at birth (years),VCT,Saint Vincent and the Grenadines,Year,2019,Sex,Both sexes,SEX_BTSX,73.22
+Life expectancy at birth (years),GEO,Georgia,Year,2019,Sex,Both sexes,SEX_BTSX,73.28
+Life expectancy at birth (years),MDA,Republic of Moldova,Year,2019,Sex,Both sexes,SEX_BTSX,73.26
+Life expectancy at birth (years),SYC,Seychelles,Year,2019,Sex,Both sexes,SEX_BTSX,73.34
+Life expectancy at birth (years),VNM,Viet Nam,Year,2019,Sex,Both sexes,SEX_BTSX,73.74
+Life expectancy at birth (years),OMN,Oman,Year,2019,Sex,Both sexes,SEX_BTSX,73.9
+Life expectancy at birth (years),VEN,Venezuela (Bolivarian Republic of),Year,2019,Sex,Both sexes,SEX_BTSX,73.95
+Life expectancy at birth (years),CPV,Cabo Verde,Year,2019,Sex,Both sexes,SEX_BTSX,74.03
+Life expectancy at birth (years),KAZ,Kazakhstan,Year,2019,Sex,Both sexes,SEX_BTSX,73.95
+Life expectancy at birth (years),MUS,Mauritius,Year,2019,Sex,Both sexes,SEX_BTSX,74.07
+Life expectancy at birth (years),KGZ,Kyrgyzstan,Year,2019,Sex,Both sexes,SEX_BTSX,74.18
+Life expectancy at birth (years),BGD,Bangladesh,Year,2019,Sex,Both sexes,SEX_BTSX,74.25
+Life expectancy at birth (years),BRN,Brunei Darussalam,Year,2019,Sex,Both sexes,SEX_BTSX,74.32
+Life expectancy at birth (years),LCA,Saint Lucia,Year,2019,Sex,Both sexes,SEX_BTSX,74.33
+Life expectancy at birth (years),SAU,Saudi Arabia,Year,2019,Sex,Both sexes,SEX_BTSX,74.31
+Life expectancy at birth (years),BLZ,Belize,Year,2019,Sex,Both sexes,SEX_BTSX,74.41
+Life expectancy at birth (years),MYS,Malaysia,Year,2019,Sex,Both sexes,SEX_BTSX,74.72
+Life expectancy at birth (years),BLR,Belarus,Year,2019,Sex,Both sexes,SEX_BTSX,74.81
+Life expectancy at birth (years),MKD,North Macedonia,Year,2019,Sex,Both sexes,SEX_BTSX,74.82
+Life expectancy at birth (years),SLV,El Salvador,Year,2019,Sex,Both sexes,SEX_BTSX,75.03
+Life expectancy at birth (years),NIC,Nicaragua,Year,2019,Sex,Both sexes,SEX_BTSX,75.04
+Life expectancy at birth (years),BGR,Bulgaria,Year,2019,Sex,Both sexes,SEX_BTSX,75.07
+Life expectancy at birth (years),LVA,Latvia,Year,2019,Sex,Both sexes,SEX_BTSX,75.38
+Life expectancy at birth (years),ROU,Romania,Year,2019,Sex,Both sexes,SEX_BTSX,75.57
+Life expectancy at birth (years),BHR,Bahrain,Year,2019,Sex,Both sexes,SEX_BTSX,75.81
+Life expectancy at birth (years),LBY,Libya,Year,2019,Sex,Both sexes,SEX_BTSX,75.78
+Life expectancy at birth (years),PRY,Paraguay,Year,2019,Sex,Both sexes,SEX_BTSX,75.81
+Life expectancy at birth (years),BRA,Brazil,Year,2019,Sex,Both sexes,SEX_BTSX,75.9
+Life expectancy at birth (years),MNE,Montenegro,Year,2019,Sex,Both sexes,SEX_BTSX,75.88
+Life expectancy at birth (years),SRB,Serbia,Year,2019,Sex,Both sexes,SEX_BTSX,75.87
+Life expectancy at birth (years),ARM,Armenia,Year,2019,Sex,Both sexes,SEX_BTSX,76.03
+Life expectancy at birth (years),BRB,Barbados,Year,2019,Sex,Both sexes,SEX_BTSX,76.03
+Life expectancy at birth (years),JAM,Jamaica,Year,2019,Sex,Both sexes,SEX_BTSX,75.98
+Life expectancy at birth (years),LTU,Lithuania,Year,2019,Sex,Both sexes,SEX_BTSX,75.99
+Life expectancy at birth (years),MEX,Mexico,Year,2019,Sex,Both sexes,SEX_BTSX,76.01
+Life expectancy at birth (years),TTO,Trinidad and Tobago,Year,2019,Sex,Both sexes,SEX_BTSX,76.13
+Life expectancy at birth (years),ARE,United Arab Emirates,Year,2019,Sex,Both sexes,SEX_BTSX,76.08
+Life expectancy at birth (years),HUN,Hungary,Year,2019,Sex,Both sexes,SEX_BTSX,76.44
+Life expectancy at birth (years),LBN,Lebanon,Year,2019,Sex,Both sexes,SEX_BTSX,76.44
+Life expectancy at birth (years),ATG,Antigua and Barbuda,Year,2019,Sex,Both sexes,SEX_BTSX,76.45
+Life expectancy at birth (years),ARG,Argentina,Year,2019,Sex,Both sexes,SEX_BTSX,76.58
+Life expectancy at birth (years),BIH,Bosnia and Herzegovina,Year,2019,Sex,Both sexes,SEX_BTSX,76.75
+Life expectancy at birth (years),LKA,Sri Lanka,Year,2019,Sex,Both sexes,SEX_BTSX,76.87
+Life expectancy at birth (years),TUN,Tunisia,Year,2019,Sex,Both sexes,SEX_BTSX,77.04
+Life expectancy at birth (years),DZA,Algeria,Year,2019,Sex,Both sexes,SEX_BTSX,77.13
+Life expectancy at birth (years),URY,Uruguay,Year,2019,Sex,Both sexes,SEX_BTSX,77.1
+Life expectancy at birth (years),QAT,Qatar,Year,2019,Sex,Both sexes,SEX_BTSX,77.17
+Life expectancy at birth (years),IRN,Iran (Islamic Republic of),Year,2019,Sex,Both sexes,SEX_BTSX,77.35
+Life expectancy at birth (years),CHN,China,Year,2019,Sex,Both sexes,SEX_BTSX,77.43
+Life expectancy at birth (years),THA,Thailand,Year,2019,Sex,Both sexes,SEX_BTSX,77.7
+Life expectancy at birth (years),CUB,Cuba,Year,2019,Sex,Both sexes,SEX_BTSX,77.76
+Life expectancy at birth (years),JOR,Jordan,Year,2019,Sex,Both sexes,SEX_BTSX,77.87
+Life expectancy at birth (years),ALB,Albania,Year,2019,Sex,Both sexes,SEX_BTSX,78
+Life expectancy at birth (years),SVK,Slovakia,Year,2019,Sex,Both sexes,SEX_BTSX,78.23
+Life expectancy at birth (years),POL,Poland,Year,2019,Sex,Both sexes,SEX_BTSX,78.27
+Life expectancy at birth (years),ECU,Ecuador,Year,2019,Sex,Both sexes,SEX_BTSX,78.45
+Life expectancy at birth (years),USA,United States of America,Year,2019,Sex,Both sexes,SEX_BTSX,78.5
+Life expectancy at birth (years),HRV,Croatia,Year,2019,Sex,Both sexes,SEX_BTSX,78.64
+Life expectancy at birth (years),TUR,Türkiye,Year,2019,Sex,Both sexes,SEX_BTSX,78.62
+Life expectancy at birth (years),EST,Estonia,Year,2019,Sex,Both sexes,SEX_BTSX,78.88
+Life expectancy at birth (years),CZE,Czechia,Year,2019,Sex,Both sexes,SEX_BTSX,79.13
+Life expectancy at birth (years),COL,Colombia,Year,2019,Sex,Both sexes,SEX_BTSX,79.31
+Life expectancy at birth (years),PAN,Panama,Year,2019,Sex,Both sexes,SEX_BTSX,79.29
+Life expectancy at birth (years),MDV,Maldives,Year,2019,Sex,Both sexes,SEX_BTSX,79.59
+Life expectancy at birth (years),PER,Peru,Year,2019,Sex,Both sexes,SEX_BTSX,79.9
+Life expectancy at birth (years),CHL,Chile,Year,2019,Sex,Both sexes,SEX_BTSX,80.74
+Life expectancy at birth (years),CRI,Costa Rica,Year,2019,Sex,Both sexes,SEX_BTSX,80.85
+Life expectancy at birth (years),KWT,Kuwait,Year,2019,Sex,Both sexes,SEX_BTSX,80.97
+Life expectancy at birth (years),GRC,Greece,Year,2019,Sex,Both sexes,SEX_BTSX,81.1
+Life expectancy at birth (years),DNK,Denmark,Year,2019,Sex,Both sexes,SEX_BTSX,81.32
+Life expectancy at birth (years),SVN,Slovenia,Year,2019,Sex,Both sexes,SEX_BTSX,81.31
+Life expectancy at birth (years),BEL,Belgium,Year,2019,Sex,Both sexes,SEX_BTSX,81.42
+Life expectancy at birth (years),GBR,United Kingdom of Great Britain and Northern Ireland,Year,2019,Sex,Both sexes,SEX_BTSX,81.4
+Life expectancy at birth (years),AUT,Austria,Year,2019,Sex,Both sexes,SEX_BTSX,81.65
+Life expectancy at birth (years),FIN,Finland,Year,2019,Sex,Both sexes,SEX_BTSX,81.61
+Life expectancy at birth (years),PRT,Portugal,Year,2019,Sex,Both sexes,SEX_BTSX,81.57
+Life expectancy at birth (years),DEU,Germany,Year,2019,Sex,Both sexes,SEX_BTSX,81.72
+Life expectancy at birth (years),IRL,Ireland,Year,2019,Sex,Both sexes,SEX_BTSX,81.84
+Life expectancy at birth (years),NLD,Netherlands (Kingdom of the),Year,2019,Sex,Both sexes,SEX_BTSX,81.79
+Life expectancy at birth (years),MLT,Malta,Year,2019,Sex,Both sexes,SEX_BTSX,81.89
+Life expectancy at birth (years),NZL,New Zealand,Year,2019,Sex,Both sexes,SEX_BTSX,81.96
+Life expectancy at birth (years),CAN,Canada,Year,2019,Sex,Both sexes,SEX_BTSX,82.24
+Life expectancy at birth (years),ISL,Iceland,Year,2019,Sex,Both sexes,SEX_BTSX,82.33
+Life expectancy at birth (years),LUX,Luxembourg,Year,2019,Sex,Both sexes,SEX_BTSX,82.41
+Life expectancy at birth (years),SWE,Sweden,Year,2019,Sex,Both sexes,SEX_BTSX,82.4
+Life expectancy at birth (years),FRA,France,Year,2019,Sex,Both sexes,SEX_BTSX,82.48
+Life expectancy at birth (years),ISR,Israel,Year,2019,Sex,Both sexes,SEX_BTSX,82.62
+Life expectancy at birth (years),NOR,Norway,Year,2019,Sex,Both sexes,SEX_BTSX,82.62
+Life expectancy at birth (years),AUS,Australia,Year,2019,Sex,Both sexes,SEX_BTSX,83.04
+Life expectancy at birth (years),ITA,Italy,Year,2019,Sex,Both sexes,SEX_BTSX,82.97
+Life expectancy at birth (years),CYP,Cyprus,Year,2019,Sex,Both sexes,SEX_BTSX,83.14
+Life expectancy at birth (years),SGP,Singapore,Year,2019,Sex,Both sexes,SEX_BTSX,83.22
+Life expectancy at birth (years),ESP,Spain,Year,2019,Sex,Both sexes,SEX_BTSX,83.22
+Life expectancy at birth (years),KOR,Republic of Korea,Year,2019,Sex,Both sexes,SEX_BTSX,83.3
+Life expectancy at birth (years),CHE,Switzerland,Year,2019,Sex,Both sexes,SEX_BTSX,83.45
+Life expectancy at birth (years),JPN,Japan,Year,2019,Sex,Both sexes,SEX_BTSX,84.26
+Life expectancy at age 60 (years),CAF,Central African Republic,Year,2019,Sex,Both sexes,SEX_BTSX,13.17
+Life expectancy at age 60 (years),LSO,Lesotho,Year,2019,Sex,Both sexes,SEX_BTSX,13.43
+Life expectancy at age 60 (years),KIR,Kiribati,Year,2019,Sex,Both sexes,SEX_BTSX,13.69
+Life expectancy at age 60 (years),SOM,Somalia,Year,2019,Sex,Both sexes,SEX_BTSX,14.54
+Life expectancy at age 60 (years),FSM,Micronesia (Federated States of),Year,2019,Sex,Both sexes,SEX_BTSX,14.7
+Life expectancy at age 60 (years),SWZ,Eswatini,Year,2019,Sex,Both sexes,SEX_BTSX,15.1
+Life expectancy at age 60 (years),AFG,Afghanistan,Year,2019,Sex,Both sexes,SEX_BTSX,15.21
+Life expectancy at age 60 (years),ERI,Eritrea,Year,2019,Sex,Both sexes,SEX_BTSX,15.5
+Life expectancy at age 60 (years),GNB,Guinea-Bissau,Year,2019,Sex,Both sexes,SEX_BTSX,15.5
+Life expectancy at age 60 (years),SLB,Solomon Islands,Year,2019,Sex,Both sexes,SEX_BTSX,15.47
+Life expectancy at age 60 (years),ZWE,Zimbabwe,Year,2019,Sex,Both sexes,SEX_BTSX,15.55
+Life expectancy at age 60 (years),VUT,Vanuatu,Year,2019,Sex,Both sexes,SEX_BTSX,15.68
+Life expectancy at age 60 (years),MOZ,Mozambique,Year,2019,Sex,Both sexes,SEX_BTSX,15.8
+Life expectancy at age 60 (years),TJK,Tajikistan,Year,2019,Sex,Both sexes,SEX_BTSX,16.12
+Life expectancy at age 60 (years),BWA,Botswana,Year,2019,Sex,Both sexes,SEX_BTSX,16.25
+Life expectancy at age 60 (years),FJI,Fiji,Year,2019,Sex,Both sexes,SEX_BTSX,16.18
+Life expectancy at age 60 (years),COG,Congo,Year,2019,Sex,Both sexes,SEX_BTSX,16.45
+Life expectancy at age 60 (years),MNG,Mongolia,Year,2019,Sex,Both sexes,SEX_BTSX,16.41
+Life expectancy at age 60 (years),BDI,Burundi,Year,2019,Sex,Both sexes,SEX_BTSX,16.47
+Life expectancy at age 60 (years),TCD,Chad,Year,2019,Sex,Both sexes,SEX_BTSX,16.54
+Life expectancy at age 60 (years),GIN,Guinea,Year,2019,Sex,Both sexes,SEX_BTSX,16.54
+Life expectancy at age 60 (years),PNG,Papua New Guinea,Year,2019,Sex,Both sexes,SEX_BTSX,16.48
+Life expectancy at age 60 (years),ZMB,Zambia,Year,2019,Sex,Both sexes,SEX_BTSX,16.53
+Life expectancy at age 60 (years),COD,Democratic Republic of the Congo,Year,2019,Sex,Both sexes,SEX_BTSX,16.63
+Life expectancy at age 60 (years),GUY,Guyana,Year,2019,Sex,Both sexes,SEX_BTSX,16.55
+Life expectancy at age 60 (years),BFA,Burkina Faso,Year,2019,Sex,Both sexes,SEX_BTSX,16.82
+Life expectancy at age 60 (years),HTI,Haiti,Year,2019,Sex,Both sexes,SEX_BTSX,16.77
+Life expectancy at age 60 (years),MDG,Madagascar,Year,2019,Sex,Both sexes,SEX_BTSX,16.76
+Life expectancy at age 60 (years),GMB,Gambia,Year,2019,Sex,Both sexes,SEX_BTSX,16.85
+Life expectancy at age 60 (years),AGO,Angola,Year,2019,Sex,Both sexes,SEX_BTSX,16.98
+Life expectancy at age 60 (years),SLE,Sierra Leone,Year,2019,Sex,Both sexes,SEX_BTSX,16.99
+Life expectancy at age 60 (years),TGO,Togo,Year,2019,Sex,Both sexes,SEX_BTSX,17.03
+Life expectancy at age 60 (years),AZE,Azerbaijan,Year,2019,Sex,Both sexes,SEX_BTSX,17.06
+Life expectancy at age 60 (years),CIV,Cote d'Ivoire,Year,2019,Sex,Both sexes,SEX_BTSX,17.08
+Life expectancy at age 60 (years),CMR,Cameroon,Year,2019,Sex,Both sexes,SEX_BTSX,17.09
+Life expectancy at age 60 (years),GAB,Gabon,Year,2019,Sex,Both sexes,SEX_BTSX,17.17
+Life expectancy at age 60 (years),GHA,Ghana,Year,2019,Sex,Both sexes,SEX_BTSX,17.25
+Life expectancy at age 60 (years),MWI,Malawi,Year,2019,Sex,Both sexes,SEX_BTSX,17.24
+Life expectancy at age 60 (years),NAM,Namibia,Year,2019,Sex,Both sexes,SEX_BTSX,17.24
+Life expectancy at age 60 (years),NER,Niger,Year,2019,Sex,Both sexes,SEX_BTSX,17.19
+Life expectancy at age 60 (years),PAK,Pakistan,Year,2019,Sex,Both sexes,SEX_BTSX,17.26
+Life expectancy at age 60 (years),BEN,Benin,Year,2019,Sex,Both sexes,SEX_BTSX,17.4
+Life expectancy at age 60 (years),MLI,Mali,Year,2019,Sex,Both sexes,SEX_BTSX,17.46
+Life expectancy at age 60 (years),GNQ,Equatorial Guinea,Year,2019,Sex,Both sexes,SEX_BTSX,17.64
+Life expectancy at age 60 (years),KEN,Kenya,Year,2019,Sex,Both sexes,SEX_BTSX,17.64
+Life expectancy at age 60 (years),LAO,Lao People's Democratic Republic,Year,2019,Sex,Both sexes,SEX_BTSX,17.65
+Life expectancy at age 60 (years),KHM,Cambodia,Year,2019,Sex,Both sexes,SEX_BTSX,17.74
+Life expectancy at age 60 (years),LBR,Liberia,Year,2019,Sex,Both sexes,SEX_BTSX,17.75
+Life expectancy at age 60 (years),STP,Sao Tome and Principe,Year,2019,Sex,Both sexes,SEX_BTSX,17.73
+Life expectancy at age 60 (years),UGA,Uganda,Year,2019,Sex,Both sexes,SEX_BTSX,17.7
+Life expectancy at age 60 (years),DJI,Djibouti,Year,2019,Sex,Both sexes,SEX_BTSX,17.76
+Life expectancy at age 60 (years),EGY,Egypt,Year,2019,Sex,Both sexes,SEX_BTSX,17.83
+Life expectancy at age 60 (years),OMN,Oman,Year,2019,Sex,Both sexes,SEX_BTSX,17.8
+Life expectancy at age 60 (years),PHL,Philippines,Year,2019,Sex,Both sexes,SEX_BTSX,17.77
+Life expectancy at age 60 (years),SSD,South Sudan,Year,2019,Sex,Both sexes,SEX_BTSX,17.79
+Life expectancy at age 60 (years),YEM,Yemen,Year,2019,Sex,Both sexes,SEX_BTSX,17.77
+Life expectancy at age 60 (years),IDN,Indonesia,Year,2019,Sex,Both sexes,SEX_BTSX,17.94
+Life expectancy at age 60 (years),WSM,Samoa,Year,2019,Sex,Both sexes,SEX_BTSX,17.86
+Life expectancy at age 60 (years),TLS,Timor-Leste,Year,2019,Sex,Both sexes,SEX_BTSX,17.9
+Life expectancy at age 60 (years),NPL,Nepal,Year,2019,Sex,Both sexes,SEX_BTSX,18.01
+Life expectancy at age 60 (years),RWA,Rwanda,Year,2019,Sex,Both sexes,SEX_BTSX,18.02
+Life expectancy at age 60 (years),COM,Comoros,Year,2019,Sex,Both sexes,SEX_BTSX,18.13
+Life expectancy at age 60 (years),MMR,Myanmar,Year,2019,Sex,Both sexes,SEX_BTSX,18.06
+Life expectancy at age 60 (years),SEN,Senegal,Year,2019,Sex,Both sexes,SEX_BTSX,18.15
+Life expectancy at age 60 (years),NGA,Nigeria,Year,2019,Sex,Both sexes,SEX_BTSX,18.24
+Life expectancy at age 60 (years),TZA,United Republic of Tanzania,Year,2019,Sex,Both sexes,SEX_BTSX,18.16
+Life expectancy at age 60 (years),HND,Honduras,Year,2019,Sex,Both sexes,SEX_BTSX,18.35
+Life expectancy at age 60 (years),MKD,North Macedonia,Year,2019,Sex,Both sexes,SEX_BTSX,18.33
+Life expectancy at age 60 (years),ETH,Ethiopia,Year,2019,Sex,Both sexes,SEX_BTSX,18.45
+Life expectancy at age 60 (years),SUR,Suriname,Year,2019,Sex,Both sexes,SEX_BTSX,18.46
+Life expectancy at age 60 (years),BOL,Bolivia (Plurinational State of),Year,2019,Sex,Both sexes,SEX_BTSX,18.56
+Life expectancy at age 60 (years),SDN,Sudan,Year,2019,Sex,Both sexes,SEX_BTSX,18.64
+Life expectancy at age 60 (years),UZB,Uzbekistan,Year,2019,Sex,Both sexes,SEX_BTSX,18.64
+Life expectancy at age 60 (years),GRD,Grenada,Year,2019,Sex,Both sexes,SEX_BTSX,18.73
+Life expectancy at age 60 (years),MAR,Morocco,Year,2019,Sex,Both sexes,SEX_BTSX,18.67
+Life expectancy at age 60 (years),SYR,Syrian Arab Republic,Year,2019,Sex,Both sexes,SEX_BTSX,18.72
+Life expectancy at age 60 (years),TKM,Turkmenistan,Year,2019,Sex,Both sexes,SEX_BTSX,18.74
+Life expectancy at age 60 (years),GEO,Georgia,Year,2019,Sex,Both sexes,SEX_BTSX,18.76
+Life expectancy at age 60 (years),IND,India,Year,2019,Sex,Both sexes,SEX_BTSX,18.82
+Life expectancy at age 60 (years),BHR,Bahrain,Year,2019,Sex,Both sexes,SEX_BTSX,19.01
+Life expectancy at age 60 (years),MRT,Mauritania,Year,2019,Sex,Both sexes,SEX_BTSX,18.98
+Life expectancy at age 60 (years),MDA,Republic of Moldova,Year,2019,Sex,Both sexes,SEX_BTSX,19.02
+Life expectancy at age 60 (years),TON,Tonga,Year,2019,Sex,Both sexes,SEX_BTSX,19.03
+Life expectancy at age 60 (years),PRK,Democratic People's Republic of Korea,Year,2019,Sex,Both sexes,SEX_BTSX,19.1
+Life expectancy at age 60 (years),ZAF,South Africa,Year,2019,Sex,Both sexes,SEX_BTSX,19.12
+Life expectancy at age 60 (years),BRN,Brunei Darussalam,Year,2019,Sex,Both sexes,SEX_BTSX,19.17
+Life expectancy at age 60 (years),IRQ,Iraq,Year,2019,Sex,Both sexes,SEX_BTSX,19.18
+Life expectancy at age 60 (years),BTN,Bhutan,Year,2019,Sex,Both sexes,SEX_BTSX,19.36
+Life expectancy at age 60 (years),MNE,Montenegro,Year,2019,Sex,Both sexes,SEX_BTSX,19.44
+Life expectancy at age 60 (years),KAZ,Kazakhstan,Year,2019,Sex,Both sexes,SEX_BTSX,19.46
+Life expectancy at age 60 (years),MYS,Malaysia,Year,2019,Sex,Both sexes,SEX_BTSX,19.5
+Life expectancy at age 60 (years),QAT,Qatar,Year,2019,Sex,Both sexes,SEX_BTSX,19.5
+Life expectancy at age 60 (years),SYC,Seychelles,Year,2019,Sex,Both sexes,SEX_BTSX,19.5
+Life expectancy at age 60 (years),UKR,Ukraine,Year,2019,Sex,Both sexes,SEX_BTSX,19.49
+Life expectancy at age 60 (years),SRB,Serbia,Year,2019,Sex,Both sexes,SEX_BTSX,19.58
+Life expectancy at age 60 (years),VNM,Viet Nam,Year,2019,Sex,Both sexes,SEX_BTSX,19.6
+Life expectancy at age 60 (years),BLR,Belarus,Year,2019,Sex,Both sexes,SEX_BTSX,19.72
+Life expectancy at age 60 (years),CPV,Cabo Verde,Year,2019,Sex,Both sexes,SEX_BTSX,19.66
+Life expectancy at age 60 (years),BGR,Bulgaria,Year,2019,Sex,Both sexes,SEX_BTSX,19.82
+Life expectancy at age 60 (years),RUS,Russian Federation,Year,2019,Sex,Both sexes,SEX_BTSX,19.93
+Life expectancy at age 60 (years),SAU,Saudi Arabia,Year,2019,Sex,Both sexes,SEX_BTSX,19.9
+Life expectancy at age 60 (years),ARE,United Arab Emirates,Year,2019,Sex,Both sexes,SEX_BTSX,19.92
+Life expectancy at age 60 (years),KGZ,Kyrgyzstan,Year,2019,Sex,Both sexes,SEX_BTSX,20.01
+Life expectancy at age 60 (years),NIC,Nicaragua,Year,2019,Sex,Both sexes,SEX_BTSX,20.03
+Life expectancy at age 60 (years),BIH,Bosnia and Herzegovina,Year,2019,Sex,Both sexes,SEX_BTSX,20.16
+Life expectancy at age 60 (years),HUN,Hungary,Year,2019,Sex,Both sexes,SEX_BTSX,20.22
+Life expectancy at age 60 (years),MUS,Mauritius,Year,2019,Sex,Both sexes,SEX_BTSX,20.29
+Life expectancy at age 60 (years),ROU,Romania,Year,2019,Sex,Both sexes,SEX_BTSX,20.25
+Life expectancy at age 60 (years),ARM,Armenia,Year,2019,Sex,Both sexes,SEX_BTSX,20.41
+Life expectancy at age 60 (years),GTM,Guatemala,Year,2019,Sex,Both sexes,SEX_BTSX,20.47
+Life expectancy at age 60 (years),LVA,Latvia,Year,2019,Sex,Both sexes,SEX_BTSX,20.53
+Life expectancy at age 60 (years),LBN,Lebanon,Year,2019,Sex,Both sexes,SEX_BTSX,20.53
+Life expectancy at age 60 (years),ATG,Antigua and Barbuda,Year,2019,Sex,Both sexes,SEX_BTSX,20.59
+Life expectancy at age 60 (years),DOM,Dominican Republic,Year,2019,Sex,Both sexes,SEX_BTSX,20.65
+Life expectancy at age 60 (years),BHS,Bahamas,Year,2019,Sex,Both sexes,SEX_BTSX,20.84
+Life expectancy at age 60 (years),LKA,Sri Lanka,Year,2019,Sex,Both sexes,SEX_BTSX,20.76
+Life expectancy at age 60 (years),BGD,Bangladesh,Year,2019,Sex,Both sexes,SEX_BTSX,20.86
+Life expectancy at age 60 (years),BRB,Barbados,Year,2019,Sex,Both sexes,SEX_BTSX,20.92
+Life expectancy at age 60 (years),LTU,Lithuania,Year,2019,Sex,Both sexes,SEX_BTSX,20.93
+Life expectancy at age 60 (years),LCA,Saint Lucia,Year,2019,Sex,Both sexes,SEX_BTSX,20.91
+Life expectancy at age 60 (years),VCT,Saint Vincent and the Grenadines,Year,2019,Sex,Both sexes,SEX_BTSX,20.87
+Life expectancy at age 60 (years),ALB,Albania,Year,2019,Sex,Both sexes,SEX_BTSX,21.03
+Life expectancy at age 60 (years),ARG,Argentina,Year,2019,Sex,Both sexes,SEX_BTSX,21.11
+Life expectancy at age 60 (years),CHN,China,Year,2019,Sex,Both sexes,SEX_BTSX,21.06
+Life expectancy at age 60 (years),JAM,Jamaica,Year,2019,Sex,Both sexes,SEX_BTSX,21.32
+Life expectancy at age 60 (years),LBY,Libya,Year,2019,Sex,Both sexes,SEX_BTSX,21.26
+Life expectancy at age 60 (years),BLZ,Belize,Year,2019,Sex,Both sexes,SEX_BTSX,21.53
+Life expectancy at age 60 (years),TUN,Tunisia,Year,2019,Sex,Both sexes,SEX_BTSX,21.54
+Life expectancy at age 60 (years),CUB,Cuba,Year,2019,Sex,Both sexes,SEX_BTSX,21.59
+Life expectancy at age 60 (years),URY,Uruguay,Year,2019,Sex,Both sexes,SEX_BTSX,21.67
+Life expectancy at age 60 (years),VEN,Venezuela (Bolivarian Republic of),Year,2019,Sex,Both sexes,SEX_BTSX,21.69
+Life expectancy at age 60 (years),HRV,Croatia,Year,2019,Sex,Both sexes,SEX_BTSX,21.76
+Life expectancy at age 60 (years),IRN,Iran (Islamic Republic of),Year,2019,Sex,Both sexes,SEX_BTSX,21.82
+Life expectancy at age 60 (years),JOR,Jordan,Year,2019,Sex,Both sexes,SEX_BTSX,21.81
+Life expectancy at age 60 (years),MEX,Mexico,Year,2019,Sex,Both sexes,SEX_BTSX,21.84
+Life expectancy at age 60 (years),PRY,Paraguay,Year,2019,Sex,Both sexes,SEX_BTSX,21.78
+Life expectancy at age 60 (years),SVK,Slovakia,Year,2019,Sex,Both sexes,SEX_BTSX,21.81
+Life expectancy at age 60 (years),BRA,Brazil,Year,2019,Sex,Both sexes,SEX_BTSX,21.9
+Life expectancy at age 60 (years),DZA,Algeria,Year,2019,Sex,Both sexes,SEX_BTSX,22.04
+Life expectancy at age 60 (years),TUR,Türkiye,Year,2019,Sex,Both sexes,SEX_BTSX,22.03
+Life expectancy at age 60 (years),CZE,Czechia,Year,2019,Sex,Both sexes,SEX_BTSX,22.07
+Life expectancy at age 60 (years),SLV,El Salvador,Year,2019,Sex,Both sexes,SEX_BTSX,22.12
+Life expectancy at age 60 (years),MDV,Maldives,Year,2019,Sex,Both sexes,SEX_BTSX,22.15
+Life expectancy at age 60 (years),POL,Poland,Year,2019,Sex,Both sexes,SEX_BTSX,22.13
+Life expectancy at age 60 (years),EST,Estonia,Year,2019,Sex,Both sexes,SEX_BTSX,22.53
+Life expectancy at age 60 (years),TTO,Trinidad and Tobago,Year,2019,Sex,Both sexes,SEX_BTSX,22.72
+Life expectancy at age 60 (years),USA,United States of America,Year,2019,Sex,Both sexes,SEX_BTSX,23.13
+Life expectancy at age 60 (years),ECU,Ecuador,Year,2019,Sex,Both sexes,SEX_BTSX,23.2
+Life expectancy at age 60 (years),DNK,Denmark,Year,2019,Sex,Both sexes,SEX_BTSX,23.59
+Life expectancy at age 60 (years),THA,Thailand,Year,2019,Sex,Both sexes,SEX_BTSX,23.57
+Life expectancy at age 60 (years),GRC,Greece,Year,2019,Sex,Both sexes,SEX_BTSX,23.84
+Life expectancy at age 60 (years),SVN,Slovenia,Year,2019,Sex,Both sexes,SEX_BTSX,23.82
+Life expectancy at age 60 (years),BEL,Belgium,Year,2019,Sex,Both sexes,SEX_BTSX,24.02
+Life expectancy at age 60 (years),COL,Colombia,Year,2019,Sex,Both sexes,SEX_BTSX,23.96
+Life expectancy at age 60 (years),KWT,Kuwait,Year,2019,Sex,Both sexes,SEX_BTSX,23.96
+Life expectancy at age 60 (years),AUT,Austria,Year,2019,Sex,Both sexes,SEX_BTSX,24.09
+Life expectancy at age 60 (years),NLD,Netherlands (Kingdom of the),Year,2019,Sex,Both sexes,SEX_BTSX,24.08
+Life expectancy at age 60 (years),GBR,United Kingdom of Great Britain and Northern Ireland,Year,2019,Sex,Both sexes,SEX_BTSX,24.13
+Life expectancy at age 60 (years),FIN,Finland,Year,2019,Sex,Both sexes,SEX_BTSX,24.16
+Life expectancy at age 60 (years),IRL,Ireland,Year,2019,Sex,Both sexes,SEX_BTSX,24.19
+Life expectancy at age 60 (years),CHL,Chile,Year,2019,Sex,Both sexes,SEX_BTSX,24.27
+Life expectancy at age 60 (years),PAN,Panama,Year,2019,Sex,Both sexes,SEX_BTSX,24.26
+Life expectancy at age 60 (years),PRT,Portugal,Year,2019,Sex,Both sexes,SEX_BTSX,24.34
+Life expectancy at age 60 (years),DEU,Germany,Year,2019,Sex,Both sexes,SEX_BTSX,24.41
+Life expectancy at age 60 (years),LUX,Luxembourg,Year,2019,Sex,Both sexes,SEX_BTSX,24.4
+Life expectancy at age 60 (years),PER,Peru,Year,2019,Sex,Both sexes,SEX_BTSX,24.38
+Life expectancy at age 60 (years),MLT,Malta,Year,2019,Sex,Both sexes,SEX_BTSX,24.49
+Life expectancy at age 60 (years),SWE,Sweden,Year,2019,Sex,Both sexes,SEX_BTSX,24.5
+Life expectancy at age 60 (years),ISL,Iceland,Year,2019,Sex,Both sexes,SEX_BTSX,24.64
+Life expectancy at age 60 (years),NOR,Norway,Year,2019,Sex,Both sexes,SEX_BTSX,24.66
+Life expectancy at age 60 (years),NZL,New Zealand,Year,2019,Sex,Both sexes,SEX_BTSX,24.83
+Life expectancy at age 60 (years),CYP,Cyprus,Year,2019,Sex,Both sexes,SEX_BTSX,24.92
+Life expectancy at age 60 (years),ISR,Israel,Year,2019,Sex,Both sexes,SEX_BTSX,24.9
+Life expectancy at age 60 (years),CRI,Costa Rica,Year,2019,Sex,Both sexes,SEX_BTSX,25.03
+Life expectancy at age 60 (years),ITA,Italy,Year,2019,Sex,Both sexes,SEX_BTSX,25.04
+Life expectancy at age 60 (years),CAN,Canada,Year,2019,Sex,Both sexes,SEX_BTSX,25.15
+Life expectancy at age 60 (years),FRA,France,Year,2019,Sex,Both sexes,SEX_BTSX,25.34
+Life expectancy at age 60 (years),ESP,Spain,Year,2019,Sex,Both sexes,SEX_BTSX,25.39
+Life expectancy at age 60 (years),CHE,Switzerland,Year,2019,Sex,Both sexes,SEX_BTSX,25.43
+Life expectancy at age 60 (years),SGP,Singapore,Year,2019,Sex,Both sexes,SEX_BTSX,25.54
+Life expectancy at age 60 (years),AUS,Australia,Year,2019,Sex,Both sexes,SEX_BTSX,25.62
+Life expectancy at age 60 (years),KOR,Republic of Korea,Year,2019,Sex,Both sexes,SEX_BTSX,25.8
+Life expectancy at age 60 (years),JPN,Japan,Year,2019,Sex,Both sexes,SEX_BTSX,26.35
